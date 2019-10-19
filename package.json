@@ -1,0 +1,28 @@
+{
+  "name": "ad-project-demo-vapidkeys-generator",
+  "version": "1.0.0",
+  "description": "demo generator VAPID keys",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MukhammedIsmailov/ad-project-demo-VAPIDkeys-generator.git"
+  },
+  "keywords": [
+    "ad-project",
+    "demo",
+    "VAPID",
+    "keys"
+  ],
+  "author": "Mukhammed Ismailov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MukhammedIsmailov/ad-project-demo-VAPIDkeys-generator/issues"
+  },
+  "homepage": "https://github.com/MukhammedIsmailov/ad-project-demo-VAPIDkeys-generator#readme",
+  "dependencies": {
+    "web-push": "^3.4.0"
+  }
+}
